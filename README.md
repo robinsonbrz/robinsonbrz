@@ -1,5 +1,6 @@
-<h1>I'm Robinson Enedino </h1>
 <h2>Welcome to my my GitHub profile!</h2>
+<h1>I'm Robinson Enedino </h1>
+
 <p>Here you can find some personal information and professional contact, test code I've been working lately.</p>
 
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-<img  align="right" width="300px" src="static/img/Work.png" />
+<img  align="right" width="300px" src="static/img/work.png" />
 
 ```python
     General Information
