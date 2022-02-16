@@ -98,10 +98,6 @@ Here are some ideas to get you started:
     <table align="left">
         <tr>
             <td align="center" >
-                <img src="static/img/jquery.png" width="100" height="100"/>
-                <br /> JQuery
-            </td>
-            <td align="center" >
                 <img src="static/img/mssql.png" width="100" height="100"/>
                 <br /> MS Sql Server 
             </td>
@@ -129,6 +125,10 @@ Here are some ideas to get you started:
             <td align="center" >
                 <img src="static/img/js.png"  width="100" height="100"/>
                 <br /> Java Script
+            </td>
+            <td align="center" >
+                <img src="static/img/jquery.png" width="100" height="100"/>
+                <br /> JQuery
             </td>
             <td align="center" >
                 <img src="static/img/css-3.png"  width="100" height="100"/>
