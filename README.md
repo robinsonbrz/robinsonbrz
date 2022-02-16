@@ -49,19 +49,19 @@ Here are some ideas to get you started:
     <table align="left">
         <tr>
             <td align="center" >
-                <img src="static/img/python.png" width="120" height="120"/>
+                <img src="static/img/python.png" width="100" height="100"/>
                 <br /> Python
             </td>
             <td align="center" >
-                <img src="static/img/django2.png"  width="120" height="120"/>
+                <img src="static/img/django2.png"  width="100" height="100"/>
                 <br /> Django
             </td>
             <td align="center" >
-                <img src="static/img/vba.png"  width="120" height="120"/>
+                <img src="static/img/vba.png"  width="100" height="100"/>
                 <br /> VBA Excel
             </td>
             <td align="center" >
-                <img src="static/img/java.png"  width="120" height="120"/>
+                <img src="static/img/java.png"  width="100" height="100"/>
                 <br /> Java 
             </td>
        </tr>
@@ -74,19 +74,19 @@ Here are some ideas to get you started:
     <table align="right">
         <tr>
             <td align="center" >
-                <img src="static/img/ubuntu.png" width="120" height="120"/>
+                <img src="static/img/ubuntu.png" width="100" height="100"/>
                 <br /> Ubuntu Linux
             </td>
             <td align="center" >
-                <img src="static/img/heroku.png" width="120" height="120"/>
+                <img src="static/img/heroku.png" width="100" height="100"/>
                 <br /> Heroku
             </td>
             <td align="center" >
-                <img src="static/img/docker.png" width="120" height="120"/>
+                <img src="static/img/docker.png" width="100" height="100"/>
                 <br /> Docker
             </td>
             <td align="center" >
-                <img src="static/img/git.png" width="120" height="120"/>
+                <img src="static/img/git.png" width="100" height="100"/>
                 <br /> Git
             </td>
         </tr>
@@ -98,19 +98,19 @@ Here are some ideas to get you started:
     <table align="left">
         <tr>
             <td align="center" >
-                <img src="static/img/jquery.png" width="120" height="120"/>
+                <img src="static/img/jquery.png" width="100" height="100"/>
                 <br /> JQuery
             </td>
             <td align="center" >
-                <img src="static/img/mssql.png" width="120" height="120"/>
+                <img src="static/img/mssql.png" width="100" height="100"/>
                 <br /> MS Sql Server 
             </td>
             <td align="center" >
-                <img src="static/img/mysql.png" width="120" height="120"/>
+                <img src="static/img/mysql.png" width="100" height="100"/>
                 <br /> Mysql
             </td>
             <td align="center" >
-                <img src="static/img/postgresql.png" width="120" height="120"/>
+                <img src="static/img/postgresql.png" width="100" height="100"/>
                 <br /> Postgresql
             </td>
        </tr>
@@ -123,44 +123,44 @@ Here are some ideas to get you started:
     <table align="right">
         <tr>
             <td align="center" >
-                <img src="static/img/html-5.png" width="120" height="120"/>
+                <img src="static/img/html-5.png" width="100" height="100"/>
                 <br /> Html 5
             </td>
             <td align="center" >
-                <img src="static/img/js.png"  width="120" height="120"/>
+                <img src="static/img/js.png"  width="100" height="100"/>
                 <br /> Java Script
             </td>
             <td align="center" >
-                <img src="static/img/css-3.png"  width="120" height="120"/>
+                <img src="static/img/css-3.png"  width="100" height="100"/>
                 <br /> Css 3
             </td>
             <td align="center" >
-                <img src="static/img/bootstrap.png"  width="120" height="120"/>
+                <img src="static/img/bootstrap.png"  width="100" height="100"/>
                 <br /> Bootstrap 
             </td>
        </tr>
     </table>
 </div>
-<img src="static/img/empty.png" height="100px" align="rigth"/>
+
 
 <div align="rigth">
     <img src="static/img/empty.png" height="100px" align="rigth"/>
     <table align="left">
         <tr>
             <td align="center" >
-                <img src="static/img/Notepad++.png" width="120" height="120"/>
+                <img src="static/img/Notepad++.png" width="100" height="100"/>
                 <br /> Notepad++
             </td>
             <td align="center" >
-                <img src="static/img/excel.png" width="120" height="120"/>
+                <img src="static/img/excel.png" width="100" height="100"/>
                 <br /> Excel
             </td>
             <td align="center" >
-                <img src="static/img/visual_studio_code.png" width="120" height="120"/>
+                <img src="static/img/visual_studio_code.png" width="100" height="100"/>
                 <br /> Visual Studio Code
             </td>
             <td align="center" >
-                <img src="static/img/pycharm.png" width="120" height="120"/>
+                <img src="static/img/pycharm.png" width="100" height="100"/>
                 <br /> Pycharm
             </td>
         </tr>
@@ -199,7 +199,7 @@ Here are some ideas to get you started:
 
 <img src="static/img/empty.png" height="200px" align="rigth"/>
 
-## Contact Information 
+<h1 align="center"> Contact Information </h1> 
 
 <div align="center">
     <table align="center">
@@ -209,7 +209,7 @@ Here are some ideas to get you started:
                 </td>
             <td>
                 <a href="mailto:robinsonbrz@gmail.com">
-                <img src="static/img/gmail.png" width="120" height="120" align="center"></a>
+                <img src="static/img/gmail.png" width="100" height="100" align="center"></a>
             </td>
         </tr>
     </table> 
