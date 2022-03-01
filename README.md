@@ -1,33 +1,13 @@
-<h2>Welcome to my my GitHub profile!</h2>
-<h1>I'm Robinson Enedino </h1>
+<h1>Hello and Welcome to my my GitHub profile!</h1>
+<h2>I'm Robinson Enedino </h2>
 
-<p>Here you can find some personal information and professional contact, test code I've been working lately.</p>
-
+<p>Here you can find personal information, professional contact and technologies I've been working on lately.</p>
+<p>Feel free to comment and let me know your feedback. You can use the available contacts provided below.</p>
 
 <br>
 
 
-
-<!--
-**robinsonbrz/robinsonbrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-<img  align="right" width="300px" src="static/img/work.png" />
+<img  align="right" width="250px" src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/work.png" />
 
 ```python
     General Information
@@ -35,181 +15,183 @@ Here are some ideas to get you started:
     Name = "Robinson Enedino"
     Nickname = "robinsonbrz"
     Academic = "Bachelor of Electrical Engineering"
-    Hobbies = ["Coding", "Gaming", "Music" ,"Movies"]
+    Hobbies = ["Family", "Rocket League Nerd", "Thrash Metal" ,"Movies"]
     Languages = ["Portuguese", "English", "Spanish"]
     Programming Languages = ["Python", "Java", "VBA"]
     Working Experience >  16 years == True
 ```
 
-
-
-<br><br>
-<div align="rigth">
-    <img src="static/img/empty.png" height="100px" align="rigth"/>
-    <table align="left">
-        <tr>
-            <td align="center" >
-                <img src="static/img/python.png" width="100" height="100"/>
-                <br /> Python
+<div align="center">
+    <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png" height="100px"/>
+    <table align="center">
+        <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/python.png" width="100" height="100"/>
+                <br> Python
             </td>
-            <td align="center" >
-                <img src="static/img/django2.png"  width="100" height="100"/>
-                <br /> Django
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/django2.png"  width="100" height="100"/>
+                <br> Django
             </td>
-            <td align="center" >
-                <img src="static/img/vba.png"  width="100" height="100"/>
-                <br /> VBA Excel
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/vba.png"  width="100" height="100"/>
+                <br> VBA Excel
             </td>
-            <td align="center" >
-                <img src="static/img/java.png"  width="100" height="100"/>
-                <br /> Java 
-            </td>
-       </tr>
-    </table>
-</div>
-
-
-<div align="left">
-    <img src="static/img/empty.png" height="100px"/>
-    <table align="right">
-        <tr>
-            <td align="center" >
-                <img src="static/img/ubuntu.png" width="100" height="100"/>
-                <br /> Ubuntu Linux
-            </td>
-            <td align="center" >
-                <img src="static/img/heroku.png" width="100" height="100"/>
-                <br /> Heroku
-            </td>
-            <td align="center" >
-                <img src="static/img/docker.png" width="100" height="100"/>
-                <br /> Docker
-            </td>
-            <td align="center" >
-                <img src="static/img/git.png" width="100" height="100"/>
-                <br /> Git
-            </td>
-        </tr>
-    </table>
-</div>
-
-<div align="rigth">
-    <img src="static/img/empty.png" height="100px" align="rigth"/>
-    <table align="left">
-        <tr>
-            <td align="center" >
-                <img src="static/img/mssql.png" width="100" height="100"/>
-                <br /> MS Sql Server 
-            </td>
-            <td align="center" >
-                <img src="static/img/mysql.png" width="100" height="100"/>
-                <br /> Mysql
-            </td>
-            <td align="center" >
-                <img src="static/img/postgresql.png" width="100" height="100"/>
-                <br /> Postgresql
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/java.png"  width="100" height="100"/>
+                <br> Java 
             </td>
        </tr>
-    </table>
-</div>
-
-
-<div align="left">
-    <img src="static/img/empty.png" height="100px"/>
-    <table align="right">
-        <tr>
-            <td align="center" >
-                <img src="static/img/html-5.png" width="100" height="100"/>
-                <br /> Html 5
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/oracle.png" width="100" height="100"/>
+                <br> Oracle Cloud Infrastructure
             </td>
-            <td align="center" >
-                <img src="static/img/js.png"  width="100" height="100"/>
-                <br /> Java Script
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/heroku.png" width="100" height="100"/>
+                <br> Heroku
             </td>
-            <td align="center" >
-                <img src="static/img/jquery.png" width="100" height="100"/>
-                <br /> JQuery
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/docker.png" width="100" height="100"/>
+                <br> Docker
             </td>
-            <td align="center" >
-                <img src="static/img/css-3.png"  width="100" height="100"/>
-                <br /> Css 3
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/git.png" width="100" height="100"/>
+                <br> Git
             </td>
-            <td align="center" >
-                <img src="static/img/bootstrap.png"  width="100" height="100"/>
-                <br /> Bootstrap 
+        </tr>
+        <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/mssql.png" width="100" height="100"/>
+                <br> MS Sql Server 
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/mysql.png" width="100" height="100"/>
+                <br> Mysql
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/postgresql.png" width="100" height="100"/>
+                <br> Postgresql
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
+                <br>
             </td>
        </tr>
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
+                <br>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/html-5.png" width="100" height="100"/>
+                <br> Html 5
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/css-3.png"  width="100" height="100"/>
+                <br> Css 3
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/bootstrap.png"  width="100" height="100"/>
+                <br> Bootstrap 
+            </td>
+       </tr>
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/react.png" width="100" height="100"/>
+                <br> React / Next JS
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/js.png"  width="100" height="100"/>
+                <br> Java Script
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/jquery.png" width="100" height="100"/>
+                <br> JQuery
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
+                <br>
+            </td>
+        </tr>
+        <tr align="center">
+            <td >
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/Notepad++.png" width="100" height="100"/>
+                <br> Notepad++
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/excel.png" width="100" height="100"/>
+                <br> Excel
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/visual_studio_code.png" width="100" height="100"/>
+                <br> Visual Studio Code
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/pycharm.png" width="100" height="100"/>
+                <br> Pycharm
+            </td>
+        </tr>
     </table>
 </div>
-
-
-<div align="rigth">
-    <img src="static/img/empty.png" height="100px" align="rigth"/>
-    <table align="left">
+<br><br><br>
+<div align="center">
+    <table>        
         <tr>
-            <td align="center" >
-                <img src="static/img/Notepad++.png" width="100" height="100"/>
-                <br /> Notepad++
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img  src="https://github-readme-stats.vercel.app/api?username=Robinsonbrz"  />
+                <br>
             </td>
-            <td align="center" >
-                <img src="static/img/excel.png" width="100" height="100"/>
-                <br /> Excel
+        </tr>    
+        <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img  src="https://github-readme-streak-stats.herokuapp.com/?user=robinsonbrz"/>
+                <br>
             </td>
-            <td align="center" >
-                <img src="static/img/visual_studio_code.png" width="100" height="100"/>
-                <br /> Visual Studio Code
-            </td>
-            <td align="center" >
-                <img src="static/img/pycharm.png" width="100" height="100"/>
-                <br /> Pycharm
-            </td>
-        </tr>
+        </tr>    
     </table>
 </div>
+<br><br><br>
 
-<img src="static/img/empty.png" height="100px" align="left"/>
-
-<div align="left">
-    <img src="static/img/empty.png" height="100px"/>
-    <table align="right">
-    <tr>
-<td>
-   <p align="right">
-        <img  src="https://github-readme-stats.vercel.app/api?username=Robinsonbrz" width="450" />
-   </p>    
-</td>
-        </tr>
-    </table>
-</div>
-<img src="static/img/empty.png" height="100px" align="rigth"/>
-
-<div align="left">
-    <img src="static/img/empty.png" height="100px"/>
-    <table align="left">
-    <tr>
-    <td>
-    <p align="left">
-            <img  src="https://github-readme-streak-stats.herokuapp.com/?user=robinsonbrz"width="450"/>
-    </p>
-    </td>
-        </tr>
-    </table>
-</div>
-
-
-<img src="static/img/empty.png" height="200px" align="rigth"/>
 
 <h1 align="center"> Contact Information </h1> 
 
 <div align="center">
     <table align="center">
         </tr>
-            <td align="center">
-                <a  href="https://www.linkedin.com/in/robinsonbrz/"><img src="static/img/linkedin.png" width="100" height="100"align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/linkedin.png" width="100" height="100">
                 </td>
             <td>
                 <a href="mailto:robinsonbrz@gmail.com">
-                <img src="static/img/gmail.png" width="100" height="100" align="center"></a>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="120" height="120" ></a>
             </td>
         </tr>
     </table> 
