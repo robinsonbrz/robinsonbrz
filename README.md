@@ -20,9 +20,8 @@
     Programming Languages = ["Python", "Java", "VBA"]
     Working Experience >  16 years == True
 ```
-
+<br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png" height="100px"/>
     <table align="center">
         <tr align="center">
             <td>
@@ -121,7 +120,7 @@
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
                 <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/js.png"  width="100" height="100"/>
-                <br> Java Script
+                <br> JavaScript
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
@@ -158,7 +157,7 @@
         </tr>
     </table>
 </div>
-<br><br><br>
+<br>
 <div align="center">
     <table>        
         <tr>
@@ -177,7 +176,7 @@
         </tr>    
     </table>
 </div>
-<br><br><br>
+<br>
 
 
 <h1 align="center"> Contact Information </h1> 
