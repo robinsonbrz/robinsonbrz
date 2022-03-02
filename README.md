@@ -30,7 +30,7 @@
                 <br> Python
             </td>
             <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <a  href="www.linkedin.com/in/robinsonbrz/">
                 <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/django2.png"  width="100" height="100"/>
                 <br> Django
             </td>
