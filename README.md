@@ -48,6 +48,50 @@
        <tr align="center">
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/react.png" width="100" height="100"/>
+                <br> React / Next JS
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/js.png"  width="100" height="100"/>
+                <br> JavaScript
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/jquery.png" width="100" height="100"/>
+                <br> JQuery
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/ts.png"  width="100" height="100"/>
+                <br> Type Script
+            </td>
+        </tr>
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
+                <br>
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/html-5.png" width="100" height="100"/>
+                <br> Html 5
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/css-3.png"  width="100" height="100"/>
+                <br> Css 3
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/bootstrap.png"  width="100" height="100"/>
+                <br> Bootstrap 
+            </td>
+       </tr>
+       <tr align="center">
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
                 <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/oracle.png" width="100" height="100"/>
                 <br> Oracle Cloud Infrastructure
             </td>
@@ -89,50 +133,6 @@
                 <br>
             </td>
        </tr>
-       <tr align="center">
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
-                <br>
-            </td>
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/html-5.png" width="100" height="100"/>
-                <br> Html 5
-            </td>
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/css-3.png"  width="100" height="100"/>
-                <br> Css 3
-            </td>
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/bootstrap.png"  width="100" height="100"/>
-                <br> Bootstrap 
-            </td>
-       </tr>
-       <tr align="center">
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/react.png" width="100" height="100"/>
-                <br> React / Next JS
-            </td>
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/js.png"  width="100" height="100"/>
-                <br> JavaScript
-            </td>
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/jquery.png" width="100" height="100"/>
-                <br> JQuery
-            </td>
-            <td>
-                <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
-                <br>
-            </td>
-        </tr>
         <tr align="center">
             <td >
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
