@@ -70,8 +70,8 @@
        <tr align="center">
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/materialize.png"  width="100" height="100"/> Materialize
-                <br>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/materialize.png"  width="100" height="100"/> 
+                <br> Materialize
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
