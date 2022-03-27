@@ -70,7 +70,7 @@
        <tr align="center">
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/materialize.png"  width="100" height="100"/> Materialize
                 <br>
             </td>
             <td>
@@ -107,8 +107,8 @@
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/git.png" width="100" height="100"/>
-                <br> Git
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/AWS.png" width="100" height="100"/>
+                <br> AWS
             </td>
         </tr>
         <tr align="center">
@@ -129,8 +129,8 @@
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/empty.png"  width="100" height="100"/>
-                <br>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/git.png" width="100" height="100"/>
+                <br> Git
             </td>
        </tr>
         <tr align="center">
