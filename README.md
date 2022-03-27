@@ -107,7 +107,7 @@
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/AWS.png" width="100" height="100"/>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/aws.png" width="100" height="100"/>
                 <br> AWS
             </td>
         </tr>
