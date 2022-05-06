@@ -7,7 +7,7 @@
 <br>
 <p align="left">Personal website available below</p>
 <a href="https://www.enedino.com.br">
-<img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/live_demo.png" width="30" height="30"></a>
+<img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/live_demo.jpg" width="138" height="50"></a>
 <br>
 <br>
 <img  align="right" width="250px" src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/work.png" />
