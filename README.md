@@ -39,13 +39,13 @@
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/vba.png"  width="100" height="100"/>
-                <br> VBA Excel</a>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/fastapi.png"  width="100" height="100"/>
+                <br> FastAPI </a>
             </td>
             <td>
                 <a  href="https://www.linkedin.com/in/robinsonbrz/">
-                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/java.png"  width="100" height="100"/>
-                <br> Java </a>
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/vba.png"  width="100" height="100"/>
+                <br> VBA Excel</a>
             </td>
        </tr>
        <tr align="center">
